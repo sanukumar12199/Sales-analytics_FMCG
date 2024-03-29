@@ -1,6 +1,6 @@
 ## Sales Report :
 
-- Project objective : Created a [customer performance report](https://github.com/sanukumar12199/Sales-analytics_FMCG/blob/main/Customer_performance_report.pdf) , Conucted a comprehensive comaprison between [market performance and sales targets](https://github.com/sanukumar12199/Sales-analytics_FMCG/blob/main/market%20performance%20vs%20Target%20report.pdf)
+- Project objective : Created a [customer performance report](https://github.com/sanukumar12199/Sales-analytics_FMCG/blob/main/Customer_performance_report.pdf) , Conducted a comprehensive comaprison between [market performance and sales targets](https://github.com/sanukumar12199/Sales-analytics_FMCG/blob/main/market%20performance%20vs%20Target%20report.pdf)
 - Purpose of sales analytics : Empower businesses through analysis, monitoring, and evaluation of sales activities to drive optimized  performance.
 - Importance of analyzing sales data : Identify sales patterns and track key performance indicators (KPIs).
 - Role of reports : Utilize data-driven insights to strategize customer discounts, streamline negotiations, and pinpoint lucrative expansion opportunities across promising countries.
